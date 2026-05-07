@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chrisvillegas.github.io/resources-4iv8gb/sitemap.xml
